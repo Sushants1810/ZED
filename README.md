@@ -1,1 +1,1 @@
-# ZED : DNS Enumeration v1.3
+# ZED : DNS Enumeration
